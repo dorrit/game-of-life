@@ -1,1 +1,2 @@
 require 'board'
+require 'cell'
